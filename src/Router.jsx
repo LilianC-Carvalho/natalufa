@@ -6,7 +6,7 @@ const Router = () => {
     return(
         <>
             <Routes>
-                <Route path='/https://lilianc-carvalho.github.io/natalufa/' element={<Home />} />
+                <Route path='/' element={<Home />} />
                 <Route path='/Payment' element={<Payment />} />
             </Routes>
         </>
