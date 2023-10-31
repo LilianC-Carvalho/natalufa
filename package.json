@@ -2,7 +2,7 @@
   "name": "natal-ufa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lilianc-carvalho.github.io/natalufa/",
+  "homepage": "https://lilianc-carvalho..github.io/natalufa/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
